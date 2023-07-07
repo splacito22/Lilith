@@ -28,8 +28,8 @@ Screenshot
 
 ## Links
 
-Github Repository-
-Deployed Webpage-
+Github Repository-https://github.com/splacito22/Lilith
+Deployed Webpage-https://splacito22.github.io/Lilith/
 ​
 
 ​
