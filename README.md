@@ -65,3 +65,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Acknowledgements
+
+I would like to express my gratitude and appreciation to the following individuals, study groups, and AskBCS Learning Assistant for their contributions and support during the completion of this project:
+
+-Rob Ambriz - for providing valuable feedback and guidance throughout the development process.
+
+- Study Group/Zoom Breakout Rooms (w/Marc H, Evan Griggs) - for their collaboration, discussions, and sharing of knowledge during our study sessions.
+- AskBCS for their assistance, prompt responses, and helpful resources.
