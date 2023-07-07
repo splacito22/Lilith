@@ -1,14 +1,16 @@
-/*  */
+/*Universal Selector  */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* Body Styles */
 body {
   background-color: #d9dcd6;
 }
 
+/* Header Styles */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -17,6 +19,7 @@ header {
   color: #ffffff;
 }
 
+/* Heading Styles */
 header h1 {
   display: inline-block;
   font-size: 48px;
@@ -26,6 +29,7 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
+/* Navigation Styles */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -34,6 +38,7 @@ header nav {
   font-size: 20px;
 }
 
+/* List Styles */
 header nav ul {
   list-style-type: none;
 }
@@ -43,15 +48,18 @@ header nav ul li {
   margin-left: 25px;
 }
 
+/* Link Styles */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/* Paragraph Styles */
 p {
   font-size: 16px;
 }
 
+/* Hero Section Styles */
 #hero {
   height: 800px;
   width: 100%;
@@ -61,6 +69,7 @@ p {
   background-position: center;
 }
 
+/* Floating Styles */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -71,12 +80,14 @@ p {
   margin-left: 25px;
 }
 
+/* Main Content Styles */
 main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/* Benefits Section Styles */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -88,6 +99,7 @@ main {
   background-color: #2589bd;
 }
 
+/* Individual Benefits Styles */
 .benefits article {
   margin-bottom: 32px;
   color: #ffffff;
@@ -104,6 +116,7 @@ main {
   max-width: 150px;
 }
 
+/* Category Section Styles */
 .cat {
   margin-bottom: 20px;
   padding: 50px;
@@ -113,15 +126,18 @@ main {
   color: #ffffff;
 }
 
+/* Image Styles */
 main img {
   max-height: 200px;
 }
 
+/* Category Heading Styles */
 .cat h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
+/* Footer Styles */
 footer {
   padding: 30px;
   clear: both;
@@ -130,6 +146,7 @@ footer {
   text-align: center;
 }
 
+/* Footer Heading Styles */
 footer h2 {
   font-size: 20px;
 }
